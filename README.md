@@ -1,1 +1,1 @@
-  This is a Painting app that you can use different brush sizes and colors.
+  This is a Painting app that you can paint stuff and save it as jpeg.
